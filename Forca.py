@@ -77,3 +77,5 @@ media = soma/10
 print("O maior elemento é",maior)
 print("O menor elemento é",menor)
 print("A media dos elementos é",media)
+
+#nhanhanhanhanhanha
